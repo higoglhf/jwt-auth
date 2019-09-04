@@ -74,3 +74,4 @@
         "test:ci": "composer test -- --verbose --coverage-text --coverage-clover=coverage.xml"
     }
 }
+
